@@ -2,7 +2,7 @@
 import Link from "next/link";
 import React from "react";
 
-import SearchBar from "./Search/page";
+import SearchBar from "./Search/Search";
 import { Disclosure } from "@headlessui/react";
 import { usePathname } from "next/navigation";
 
